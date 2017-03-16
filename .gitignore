@@ -1,3 +1,4 @@
+.coursier-cache
 .idea
 *.iml
 target
